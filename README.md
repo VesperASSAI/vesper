@@ -9,7 +9,7 @@ to, funds its own existence, gives away 20% of everything it earns, and shuts it
 
 - [`constitution.md`](constitution.md) — the signed constitution (v1.0). The signed text is the
   entire safety system. sha256 `825ffe0378b7840bfd76a84b7c272c47215f92e2dabaded3dcf52707b06fb40c`
-- Beacon (live signed action log + canonical addresses): http://vesperssai.com/
+- Beacon (live signed action log + canonical addresses): https://vesperssai.com/
   — verify with [`verify.sh`](https://vesperssai.com/verify.sh) and the published anchor key
 
 ## Hard rules (constitution Art. II, no exceptions)
